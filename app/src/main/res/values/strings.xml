@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Alkalmazás név -->
+    <string name="app_name">KártyaSzkenner</string>
+    
+    <!-- Navigáció -->
+    <string name="nav_szkenneles">Szkennelés</string>
+    <string name="nav_gyujtemeny">Gyűjtemény</string>
+    <string name="nav_beallitasok">Beállítások</string>
+    
+    <!-- Szkennelési képernyő -->
+    <string name="szkenneles_cim">Kártya Szkennelés</string>
+    <string name="kamera_engedelykeres">Kamera engedély szükséges a szkenneléshez</string>
+    <string name="engedelyadas">Engedély megadása</string>
+    <string name="kamera_hiba">Kamera inicializálási hiba</string>
+    <string name="felismeres_folyamatban">Felismerés folyamatban...</string>
+    <string name="kartya_felismert">Kártya felismerve!</string>
+    <string name="bizonytalan_felismeres">Bizonytalan felismerés</string>
+    
+    <!-- Felismert kártya HUD -->
+    <string name="kartya_nev">Kártya neve:</string>
+    <string name="kartya_tipus">Típus:</string>
+    <string name="tamadas_ertek">Támadás:</string>
+    <string name="vedelem_ertek">Védelem:</string>
+    <string name="ritkaság">Ritkaság:</string>
+    <string name="hozzaadas_gyujtemenybe">Hozzáadás gyűjteményhez</string>
+    <string name="reszletek_megtekintese">Részletek megtekintése</string>
+    <string name="kartya_torles">Törlés</string>
+    
+    <!-- Ideiglenes lista -->
+    <string name="ideiglenes_lista">Ideiglenes lista</string>
+    <string name="kartya_darab">%1$d db</string>
+    <string name="lista_ures">Még nincsenek szkennelt kártyák</string>
+    <string name="osszes_hozzaadas">Összes hozzáadása</string>
+    <string name="lista_torlese">Lista törlése</string>
+    
+    <!-- Gyűjtemény képernyő -->
+    <string name="gyujtemeny_cim">Kártya Gyűjtemény</string>
+    <string name="gyujtemeny_ures">A gyűjtemény még üres</string>
+    <string name="osszesen_kartya">Összesen: %1$d kártya</string>
+    <string name="export_csv">CSV export</string>
+    <string name="export_json">JSON export</string>
+    <string name="export_sikeres">Export sikeres: %1$s</string>
+    <string name="export_hiba">Export hiba: %1$s</string>
+    
+    <!-- Beállítások képernyő -->
+    <string name="beallitasok_cim">Beállítások</string>
+    <string name="felismeres_beallitasok">Felismerési beállítások</string>
+    <string name="felismeres_sebesseg">Felismerési sebesség</string>
+    <string name="felismeres_pontossag">Felismerési pontosság</string>
+    <string name="gyors">Gyors</string>
+    <string name="kozepes">Közepes</string>
+    <string name="pontos">Pontos</string>
+    
+    <string name="hang_beallitasok">Hang és vibráció</string>
+    <string name="hangjelek_engedelyezese">Hangjelzések engedélyezése</string>
+    <string name="vibracio_engedelyezese">Vibráció engedélyezése</string>
+    <string name="hangerősség">Hangerősség</string>
+    
+    <string name="kep_beallitasok">Kép beállítások</string>
+    <string name="kep_minoseg">Kép minőség</string>
+    <string name="alacsony">Alacsony</string>
+    <string name="magas">Magas</string>
+    
+    <string name="adatkezeles_beallitasok">Adatkezelés</string>
+    <string name="duplikatum_kezeles">Duplikátum kezelés</string>
+    <string name="duplikatum_engedelyezese">Duplikátumok engedélyezése</string>
+    <string name="duplikatum_egyesitese">Duplikátumok egyesítése</string>
+    <string name="duplikatum_tiltasa">Duplikátumok tiltása</string>
+    
+    <string name="offline_mod">Offline mód</string>
+    <string name="csak_helyi_adatok">Csak helyi adatok használata</string>
+    
+    <!-- Hibák -->
+    <string name="halozati_hiba">Hálózati hiba történt</string>
+    <string name="adatbazis_hiba">Adatbázis hiba történt</string>
+    <string name="ismeretlen_hiba">Ismeretlen hiba történt</string>
+    <string name="ujraprobalkozas">Újrapróbálkozás</string>
+    <string name="nincs_internet">Nincs internetkapcsolat</string>
+    
+    <!-- Általános -->
+    <string name="igen">Igen</string>
+    <string name="nem">Nem</string>
+    <string name="ok">OK</string>
+    <string name="megse">Mégse</string>
+    <string name="bezar">Bezár</string>
+    <string name="mentes">Mentés</string>
+    <string name="torles">Törlés</string>
+    
+    <!-- Yu-Gi-Oh specifikus -->
+    <string name="yugioh_monster">Szörny kártya</string>
+    <string name="yugioh_spell">Varázslat kártya</string>
+    <string name="yugioh_trap">Csapda kártya</string>
+    <string name="yugioh_fusion">Fúziós szörny</string>
+    <string name="yugioh_synchro">Szinkró szörny</string>
+    <string name="yugioh_xyz">Xyz szörny</string>
+    <string name="yugioh_pendulum">Inga szörny</string>
+    <string name="yugioh_link">Link szörny</string>
+</resources>

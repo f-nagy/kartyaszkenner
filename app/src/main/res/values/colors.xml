@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Alapvető színek Material Design 3 alapján -->
+    <color name="seed">@color/yugioh_blue</color>
+    <color name="md_theme_light_primary">#005AC1</color>
+    <color name="md_theme_light_onPrimary">#FFFFFF</color>
+    <color name="md_theme_light_primaryContainer">#D8E2FF</color>
+    <color name="md_theme_light_onPrimaryContainer">#001A41</color>
+    <color name="md_theme_light_secondary">#575E71</color>
+    <color name="md_theme_light_onSecondary">#FFFFFF</color>
+    <color name="md_theme_light_secondaryContainer">#DBE2F9</color>
+    <color name="md_theme_light_onSecondaryContainer">#141B2C</color>
+    <color name="md_theme_light_tertiary">#715573</color>
+    <color name="md_theme_light_onTertiary">#FFFFFF</color>
+    <color name="md_theme_light_tertiaryContainer">#FBD7FC</color>
+    <color name="md_theme_light_onTertiaryContainer">#29132D</color>
+    <color name="md_theme_light_error">#BA1A1A</color>
+    <color name="md_theme_light_errorContainer">#FFDAD6</color>
+    <color name="md_theme_light_onError">#FFFFFF</color>
+    <color name="md_theme_light_onErrorContainer">#410002</color>
+    <color name="md_theme_light_background">#FFFBFE</color>
+    <color name="md_theme_light_onBackground">#1B1B1F</color>
+    <color name="md_theme_light_surface">#FFFBFE</color>
+    <color name="md_theme_light_onSurface">#1B1B1F</color>
+    <color name="md_theme_light_surfaceVariant">#E1E2EC</color>
+    <color name="md_theme_light_onSurfaceVariant">#44474F</color>
+    <color name="md_theme_light_outline">#74777F</color>
+    <color name="md_theme_light_inverseOnSurface">#F2F0F4</color>
+    <color name="md_theme_light_inverseSurface">#303033</color>
+    <color name="md_theme_light_inversePrimary">#B1C5FF</color>
+
+    <color name="md_theme_dark_primary">#B1C5FF</color>
+    <color name="md_theme_dark_onPrimary">#002E69</color>
+    <color name="md_theme_dark_primaryContainer">#004494</color>
+    <color name="md_theme_dark_onPrimaryContainer">#D8E2FF</color>
+    <color name="md_theme_dark_secondary">#BFC6DC</color>
+    <color name="md_theme_dark_onSecondary">#293042</color>
+    <color name="md_theme_dark_secondaryContainer">#3F4759</color>
+    <color name="md_theme_dark_onSecondaryContainer">#DBE2F9</color>
+    <color name="md_theme_dark_tertiary">#DFBBDF</color>
+    <color name="md_theme_dark_onTertiary">#3F2844</color>
+    <color name="md_theme_dark_tertiaryContainer">#573E5B</color>
+    <color name="md_theme_dark_onTertiaryContainer">#FBD7FC</color>
+    <color name="md_theme_dark_error">#FFB4AB</color>
+    <color name="md_theme_dark_errorContainer">#93000A</color>
+    <color name="md_theme_dark_onError">#690005</color>
+    <color name="md_theme_dark_onErrorContainer">#FFDAD6</color>
+    <color name="md_theme_dark_background">#1B1B1F</color>
+    <color name="md_theme_dark_onBackground">#E3E2E6</color>
+    <color name="md_theme_dark_surface">#1B1B1F</color>
+    <color name="md_theme_dark_onSurface">#E3E2E6</color>
+    <color name="md_theme_dark_surfaceVariant">#44474F</color>
+    <color name="md_theme_dark_onSurfaceVariant">#C4C7CF</color>
+    <color name="md_theme_dark_outline">#8E9199</color>
+    <color name="md_theme_dark_inverseOnSurface">#1B1B1F</color>
+    <color name="md_theme_dark_inverseSurface">#E3E2E6</color>
+    <color name="md_theme_dark_inversePrimary">#005AC1</color>
+
+    <!-- Yu-Gi-Oh specifikus színek -->
+    <color name="yugioh_blue">#1E3A8A</color>
+    <color name="yugioh_gold">#FFC107</color>
+    <color name="yugioh_purple">#7C3AED</color>
+    <color name="yugioh_silver">#9CA3AF</color>
+    
+    <!-- Kártya ritkaság színei -->
+    <color name="common_card">#6B7280</color>
+    <color name="rare_card">#3B82F6</color>
+    <color name="super_rare_card">#8B5CF6</color>
+    <color name="ultra_rare_card">#F59E0B</color>
+    <color name="secret_rare_card">#EF4444</color>
+    
+    <!-- Funkcionalitás színek -->
+    <color name="success_color">#059669</color>
+    <color name="warning_color">#D97706</color>
+    <color name="error_color">#DC2626</color>
+    
+    <!-- HUD és overlay színek -->
+    <color name="hud_background">#CC000000</color>
+    <color name="hud_border">#FF4CAF50</color>
+    <color name="camera_overlay">#80000000</color>
+    
+    <!-- Kamera detektálás színek -->
+    <color name="detection_border">#FF00FF00</color>
+    <color name="detection_corner">#FFFF0000</color>
+    <color name="focus_indicator">#FFFFFF00</color>
+</resources>
